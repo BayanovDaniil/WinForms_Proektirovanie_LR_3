@@ -10,6 +10,7 @@ namespace WinForms_Proektirovanie_LR_3
 {
 	public partial class Form1 : Form
 	{
+		//GITHUB CHANGES!!!
 		OpenFileDialog ofd;
 		SaveFileDialog sfd;
 		public Form1()
