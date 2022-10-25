@@ -8,6 +8,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace WinForms_Proektirovanie_LR_3
 {
+	//GHGGHGHHGHGH
 	public partial class Form1 : Form
 	{
 		OpenFileDialog ofd;
